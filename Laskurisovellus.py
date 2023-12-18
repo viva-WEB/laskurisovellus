@@ -16,7 +16,8 @@ def tulosta_tervehdys():
         "https://github.com/viva-WEB/", risuaita, sep="\n", end=rivinvaihto) 
     print(risuaita)
 
-    return None
+
+    return None 
 
 # Aliohjelma päävalikolle
 def valikko():
