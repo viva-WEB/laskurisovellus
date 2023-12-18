@@ -12,7 +12,7 @@ def tulosta_tervehdys():
         
     print("Ohjelman on kirjoitettu Python-perusteisiin ja koodin rakenteisiin keskittyvänä harjoitustyönä joulukuussa 2023",
         "Ohjelma on avoimen lähdekoodin ohjelma. Levitys ja muokkaus on vapaasti sallittua.", sep="\n", end=rivinvaihto)
-    print(risuaita, "Valtteri Virtanen (2023)",
+    print("Valtteri Virtanen (2023)",
         "https://github.com/viva-WEB/", risuaita, sep="\n", end=rivinvaihto) 
     print(risuaita)
 
@@ -37,3 +37,6 @@ def main():
 
 
 main()
+
+
+
