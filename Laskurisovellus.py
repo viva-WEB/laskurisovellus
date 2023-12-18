@@ -22,6 +22,7 @@ def tulosta_tervehdys():
 # Aliohjelma päävalikolle
 def valikko():
 
+
     return None
 
 
